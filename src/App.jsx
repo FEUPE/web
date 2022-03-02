@@ -20,18 +20,18 @@ export function App() {
           <div className="collapse navbar-collapse" id="navbarNavDropdown">
             <ul className="navbar-nav">
               <li className="nav-item">
-                <a className="nav-link active" aria-current="page" href="#">
-                  Home
+                <a className="nav-link active" aria-current="page" href="https://feupe.github.io/web/conocenos">
+                  Conócenos
                 </a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="#">
-                  Features
+                <a className="nav-link" href="https://feupe.github.io/web/convenios">
+                  Convenios
                 </a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="#">
-                  Pricing
+                <a className="nav-link" href="https://feupe.github.io/web/proyectos">
+                  Proyectos
                 </a>
               </li>
               <li className="nav-item dropdown">
@@ -43,7 +43,7 @@ export function App() {
                   data-bs-toggle="dropdown"
                   aria-expanded="false"
                 >
-                  Dropdown link
+                  Federaciones
                 </a>
                 <ul
                   className="dropdown-menu"
@@ -51,17 +51,42 @@ export function App() {
                 >
                   <li>
                     <a className="dropdown-item" href="#">
-                      Action
+                      FEUCE Esmeraldas
                     </a>
                   </li>
                   <li>
                     <a className="dropdown-item" href="#">
-                      Another action
+                      FEUCE Ambato
                     </a>
                   </li>
                   <li>
                     <a className="dropdown-item" href="#">
-                      Something else here
+                      FEUCE Manabí
+                    </a>
+                  </li>
+                  <li>
+                    <a className="dropdown-item" href="#">
+                      FEUCE Ibarra
+                    </a>
+                  </li>
+                  <li>
+                    <a className="dropdown-item" href="#">
+                      FEUCE Quito
+                    </a>
+                  </li>
+                  <li>
+                    <a className="dropdown-item" href="#">
+                      FEUCE Santo Domingo
+                    </a>
+                  </li>
+                  <li>
+                    <a className="dropdown-item" href="#">
+                      FEDEUTE
+                    </a>
+                  </li>
+                  <li>
+                    <a className="dropdown-item" href="#">
+                      FEUPS
                     </a>
                   </li>
                 </ul>
